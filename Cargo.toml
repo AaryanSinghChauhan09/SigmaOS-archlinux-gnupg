@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-gnupg component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-gnupg"
+name = "sigmaos_archlinux_gnupg"
 path = "src/lib.rs"
